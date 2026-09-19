@@ -9,6 +9,13 @@ Aure Relics Digital Tabletop Grid is built for DMs who want a clean visual battl
 
 ---
 
+---
+
+## Development Visualization
+
+<video src="https://github.com/itsdarklikehell/Aure-Relics-Grid/assets/example.com/123456/gource.mp4" controls width="100%"></video>
+
+*Gource visualization showing the repository's commit history. See the [Gource workflow](.github/workflows/gource.yml) for details.*
 ## What It Does
 
 Aure Relics Digital Tabletop Grid helps DMs:
